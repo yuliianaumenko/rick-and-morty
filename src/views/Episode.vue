@@ -143,6 +143,8 @@ p {
 }
 
 .load-characters {
-  margin-top: 30px;
+  margin-top: 40px;
+  color: grey;
+  font-size: 18px;
 }
 </style>
